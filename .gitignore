@@ -398,4 +398,4 @@ FodyWeavers.xsd
 *.sln.iml
 
 # SQLIite DB files
-*.db
+*.db*
