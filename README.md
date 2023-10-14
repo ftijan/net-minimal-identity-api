@@ -1,4 +1,4 @@
-# Net 8+ Minimal API Using Identity API
+# Net 8+ Minimal API - Identity API Implementation Example
 
 Based on the article found [here](https://andrewlock.net/exploring-the-dotnet-8-preview-introducing-the-identity-api-endpoints/)
 
